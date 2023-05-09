@@ -1,4 +1,4 @@
-# analise-de-dados-pib-world-bank
+# graficos-series-temporais-pib-world-bank
 ## Objetivo:
 Funções para exibir gráficos de linha a partir dos dados de PIB disponibilizados no site do banco mundial (https://www.worldbank.org/en/home).
 
